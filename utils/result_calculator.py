@@ -46,9 +46,9 @@ def calculate_result(marks_data):
     grade = calculate_grade(percentage)
     
     if  all_subjects_passed:
-        result = "Pass" 
+        result = "PASS" 
     else:
-        result = "Fail"
+        result = "FAIL"
         
     return {
         "total_marks": total_marks,
