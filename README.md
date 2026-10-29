@@ -249,7 +249,7 @@ The core Student Management System features have been implemented and tested.
 
 ## Author
 
-**Your Name**
+**Niranjan**
 
 MSc Data Science Student
 
