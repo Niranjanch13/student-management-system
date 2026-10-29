@@ -217,8 +217,39 @@ This project provides practical experience with:
 * Environment-variable configuration.
 * Version control workflows.
 
+## Project Status
+
+The core Student Management System features have been implemented and tested.
+
+### Current Features
+- Student record management
+- Teacher record management
+- Attendance management
+- Marks management
+- Result calculation
+- MySQL database integration
+- Input validation
+- Logging
+- Automated unit tests
+
+### Technologies Used
+- Python
+- MySQL
+- Git
+- GitHub
+- python-dotenv
+- unittest
+
+## Future Improvements
+- Role-based login for teachers and administrators
+- Student performance reports
+- Attendance reports
+- Improved user interface
+
+
 ## Author
 
 **Your Name**
 
 MSc Data Science Student
+
