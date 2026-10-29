@@ -246,6 +246,11 @@ The core Student Management System features have been implemented and tested.
 - Attendance reports
 - Improved user interface
 
+## Development Workflow
+
+New features are developed in separate Git branches,
+tested, and merged into the main branch after verification.
+
 
 ## Author
 
