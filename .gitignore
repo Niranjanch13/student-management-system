@@ -18,4 +18,4 @@ env1/
 .vscode/
 
 # Application logs
-app.log
+*.log
